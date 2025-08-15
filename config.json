@@ -95,10 +95,37 @@
       "name": "搜av资源",
       "detail": "https://api.souavzy.vip"
     },
-    "KUN资源": {
+    "JKUNziyuan": {
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "JKUN资源",
       "detail": "https://jkunzyapi.com"  
+    },
+    "1080ziyuan": {
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "name": "1080资源",
+      "detail": "https://api.1080zyku.com"
+    },
+    "baiwanziyuan": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源",
+      "detail": "https://api.bwzyz.com"
+    },
+    "91madou": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "91麻豆",
+      "detail": "https://91md.me"
+    },
+    "AIvin": {
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "name": "AIvin",
+    },
+    "MissAV": {
+      "api": "csp_Miss",
+      "name": "MissAV",
+    },
+    "Jable": {
+      "api": "csp_Jable",
+      "name": "Jable",
     }
   }
 }
