@@ -115,21 +115,6 @@
       "name": "91麻豆",
       "detail": "https://91md.me"    
     },
-    "1080ziyuan": {
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "name": "1080资源",
-      "detail": "https://api.1080zyku.com"
-    },
-    "baiwanziyuan": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "百万资源",
-      "detail": "https://api.bwzyz.com"
-    },
-    "91madou": {
-      "api": "https://91md.me/api.php/provide/vod",
-      "name": "91麻豆",
-      "detail": "https://91md.me"
-    },
     "aosika": {
       "api": "http://lbapiby.com/api.php/provide/vod",
       "name": "奥斯卡资源",
