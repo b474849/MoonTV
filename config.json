@@ -119,13 +119,13 @@
       "api": "http://lbapiby.com/api.php/provide/vod",
       "name": "AIvin",
     },
-    "JAVmingyou": {
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "name": "JAV名优",
+    "leboziyuan": {
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "name": "乐播资源",
     },
-    "semaoziyuan": {
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "name": "色猫资源",
+    "aosika": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡资源",
     }
   }
 }
