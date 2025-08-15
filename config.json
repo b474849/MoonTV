@@ -119,13 +119,13 @@
       "api": "http://lbapiby.com/api.php/provide/vod",
       "name": "AIvin",
     },
-    "MissAV": {
-      "api": "csp_Miss",
-      "name": "MissAV",
+    "JAVmingyou": {
+      "api": "http://mygzycj.com/api.php?ac=list",
+      "name": "JAV名优",
     },
-    "Jable": {
-      "api": "csp_Jable",
-      "name": "Jable",
+    "semaoziyuan": {
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "name": "色猫资源",
     }
   }
 }
